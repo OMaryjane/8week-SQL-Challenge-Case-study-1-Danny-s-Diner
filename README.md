@@ -4,3 +4,5 @@ You will find the link to my article on medium [here](https://medium.com/@maryja
 ## ERD Diagram for case 1
 <img width="323" alt="erd" src="https://user-images.githubusercontent.com/122122868/235795294-12db5378-c505-495d-a6fa-376958011783.PNG">
 You can also find the complete syntax 
+
+
